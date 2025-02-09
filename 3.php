@@ -1,6 +1,6 @@
 <?php
-$Date = readline("Введите месяц: ");
-switch ($Date) {
+$date = readline("Введите месяц: ");
+switch ($date) {
     case (1):
         echo "Январь 31 день";
         break;
